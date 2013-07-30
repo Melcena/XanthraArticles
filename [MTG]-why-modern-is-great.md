@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Why Modern is a great format.
